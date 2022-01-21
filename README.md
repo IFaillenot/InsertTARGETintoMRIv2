@@ -27,7 +27,7 @@ TARGETS INSERTION IN THE PATIENT MRI
       Configuration	
 			
 3.	Use it!		      	      	      	  
-      Choose the best batch for your images	
+      Choose the best batch for your images	      	      
       Copy files into ‘input’		        
       RUN batch of SPM8		      	      
       OUTPUT		      	      	        
